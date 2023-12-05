@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi! I'm 237 :wave:
 
-<!--
-**midnightcalls/midnightcalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+- :crossed_swords: Open to ork, studying Web development and Hacking.
+- :computer: System analysis and development
+- :purple_heart: My discord: 237.
 
-Here are some ideas to get you started:
+```C
+#include <stdio.h>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main() {
+
+    char info[128] = "Cyber Security Student and Web Developer";
+    char *langs[5] = {"C", "Java", "JavaScript", "PHP"};
+    char areas[4] = {"Pentest", "Red Team", "Web Development", "Software Development"};
+
+    // ... i hate CSS so much ^^
+
+    return 0;
+
+   }
+
+}
+```
+# Tecnologies
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno5aGdyanp3b28xMm51aG8ydnh6a3ZiYWZudGw0dmw3a2hscDA5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vfTnz2QVJ1ip2/giphy.gif">
+  <div align="left">
+    <div>
+      <img alt="C" src="https://img.shields.io/badge/c-100000?style=for-the-badge&logo=c">
+      <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
+      <img alt="Shell" src="https://img.shields.io/badge/shell-100000?style=for-the-badge&logo=shellscript">
+      <img alt="Powershell" src="https://img.shields.io/badge/powershell-100000?style=for-the-badge&logo=powershell">
+      <img alt="Linux" src="https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux">
+      <img alt="Windows" src="https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows">
+      <img alt="" src="https://img.shields.io/badge/docker-100000?style=for-the-badge&logo=docker&logoColor=blue">
+      <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
+      <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github">
+      <img alt="" src="https://img.shields.io/badge/obsidian-100000?style=for-the-badge&logo=obsidian&logoColor=purple">
+      <img alt="" src="https://img.shields.io/badge/notion-100000?style=for-the-badge&logo=notion&logoColor=white">
+    </div>
+    <hr height="1">
+  </div>
