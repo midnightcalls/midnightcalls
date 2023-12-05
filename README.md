@@ -30,7 +30,7 @@ int main() {
       <img alt="Java" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=openjdk&logoColor=orange">
       <img alt="JavaScript" src="https://shields.io/badge/JavaScript-100000?style=for-the-badge&logo=JavaScript&logoColor=yellow">
       <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
-      <img alt="Shell" src="https://img.shields.io/badge/shell-100000?style=for-the-badge&logo=shellscript">
+      <img alt="Bash" src="https://img.shields.io/badge/bash-100000?style=for-the-badge&logo=Shell">
       <img alt="Powershell" src="https://img.shields.io/badge/powershell-100000?style=for-the-badge&logo=powershell">
       <img alt="Linux" src="https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux">
       <img alt="Windows" src="https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows">
