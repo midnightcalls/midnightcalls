@@ -1,9 +1,9 @@
 # Hi! I'm 237 :wave:
 
     
-- :crossed_swords: Open to ork, studying Web development and Hacking.
-- :computer: System analysis and development
-- :purple_heart: My discord: 237.
+- :crossed_swords: Open to work, studying Web development and Hacking.
+- :computer: Analysis and systems development.
+- :email: My Discord: 237.
 
 ```C
 #include <stdio.h>
@@ -27,16 +27,15 @@ int main() {
   <div align="left">
     <div>
       <img alt="C" src="https://img.shields.io/badge/c-100000?style=for-the-badge&logo=c">
+      <img alt="Java" src="https://img.shields.io/badge/java-100000?style=for-the-badge&logo=java">
+      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=js">
       <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
       <img alt="Shell" src="https://img.shields.io/badge/shell-100000?style=for-the-badge&logo=shellscript">
       <img alt="Powershell" src="https://img.shields.io/badge/powershell-100000?style=for-the-badge&logo=powershell">
       <img alt="Linux" src="https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux">
       <img alt="Windows" src="https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows">
-      <img alt="" src="https://img.shields.io/badge/docker-100000?style=for-the-badge&logo=docker&logoColor=blue">
       <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
       <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github">
-      <img alt="" src="https://img.shields.io/badge/obsidian-100000?style=for-the-badge&logo=obsidian&logoColor=purple">
-      <img alt="" src="https://img.shields.io/badge/notion-100000?style=for-the-badge&logo=notion&logoColor=white">
     </div>
     <hr height="1">
   </div>
