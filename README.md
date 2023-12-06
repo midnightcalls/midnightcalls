@@ -28,10 +28,10 @@ int main() {
     <div>
       <img alt="C" src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c">
       <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=orange">
-      <img alt="HTML" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"> 
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=orange"> 
       <img alt="JavaScript" src="https://shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow">
       <img alt="Python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=blue">
-      <img alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white">  
+      <img alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=blue">  
       <img alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
       <img alt="Powershell" src="https://img.shields.io/badge/powershell-000000?style=for-the-badge&logo=powershell">
       <img alt="Linux" src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux">
